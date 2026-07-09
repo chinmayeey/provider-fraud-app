@@ -9,7 +9,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-2ea44f?style=for-the-badge)
 
-**[🚀 Try the Live App](#)** &nbsp;|&nbsp; **[📓 View the Notebook](./Healthcare_Fraud_Detection.ipynb)**
+**[🚀 Try the Live App](https://provider-fraud-app-aztkki9vxtfzcseqtkpkb9.streamlit.app/)** &nbsp;|&nbsp; **[📓 View the Notebook](.Provider_Fraud_case_study.ipynb)**
 
 </div>
 
